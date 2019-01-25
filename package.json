@@ -1,0 +1,29 @@
+{
+  "name": "node-muvi",
+  "description": "Node.js integration for the Muvi API",
+  "version": "0.0.3",
+  "main": "muvi.js",
+  "license": "GPL-3.0",
+  "author": "Jon Ribeiro <contact@jonathas.com>",
+  "scripts": {
+    "start": "node app.js",
+    "prestart": "npm install"
+  },
+  "homepage": "https://github.com/jonathas/node-muvi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathas/node-muvi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathas/node-muvi/issues"
+  },
+  "keywords": [
+    "muvi",
+    "streaming",
+    "video"
+  ],
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
