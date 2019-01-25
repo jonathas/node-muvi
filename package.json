@@ -1,9 +1,9 @@
 {
   "name": "node-muvi",
   "description": "Node.js integration for the Muvi API",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "muvi.js",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": "Jon Ribeiro <contact@jonathas.com>",
   "scripts": {
     "start": "node app.js",
